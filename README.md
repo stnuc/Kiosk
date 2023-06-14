@@ -4,11 +4,11 @@ Creating advanced forms of kiosk
 
 (Details are decided during the study)
 
-# Schedule
+### Schedule
 
 < 7/14 ~ 8/30 >
 
-# Process
+### Process
 
 Organizing algorithms
 
